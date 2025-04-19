@@ -50,5 +50,5 @@ Automatically builds and analyzes code on every push or pull request to `main`.
 
 ## Screenshots
 
-
+![Image](https://github.com/user-attachments/assets/49607361-689c-4877-8314-1f41b7997f81)
 ---
